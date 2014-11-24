@@ -13,12 +13,12 @@ namespace HW01_3._3
             {
                 if (str.Split(' ').Count() == 2)
                 {
-                    string[] ss = str.Split(' ');
+                    var ss = str.Split(' ');
                     var persentege = new[,] { { 5, 0.1 }, { 10, 0.15 }, { 15, 0.25 },{20, 0.35}, {25, 0.45}, { double.MaxValue, 0.5 } };
-                    double years = Convert.ToDouble(ss[0]);
-                    double income = Convert.ToDouble(ss[1]);
+                    var years = Convert.ToDouble(ss[0]);
+                    var income = Convert.ToDouble(ss[1]);
 
-                    int i = 0;
+                    var i = 0;
 
                     while (persentege[i, 0] <= years )
                     {
