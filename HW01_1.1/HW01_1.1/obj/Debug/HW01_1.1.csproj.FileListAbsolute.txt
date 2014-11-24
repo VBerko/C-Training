@@ -1,0 +1,9 @@
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\bin\Debug\HW01_1.1.exe.config
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\bin\Debug\HW01_1.1.exe
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\bin\Debug\HW01_1.1.pdb
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\obj\Debug\HW01_1.1.csprojResolveAssemblyReference.cache
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\obj\Debug\HW01_1._1.Form1.resources
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\obj\Debug\HW01_1._1.Properties.Resources.resources
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\obj\Debug\HW01_1.1.csproj.GenerateResource.Cache
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\obj\Debug\HW01_1.1.exe
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_1.1\HW01_1.1\obj\Debug\HW01_1.1.pdb
