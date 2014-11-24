@@ -1,0 +1,6 @@
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_2.1\HW01_2.1\bin\Debug\HW01_2.1.exe.config
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_2.1\HW01_2.1\bin\Debug\HW01_2.1.exe
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_2.1\HW01_2.1\bin\Debug\HW01_2.1.pdb
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_2.1\HW01_2.1\obj\Debug\HW01_2.1.csprojResolveAssemblyReference.cache
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_2.1\HW01_2.1\obj\Debug\HW01_2.1.exe
+c:\users\veraberko\documents\visual studio 2013\Projects\HW01_2.1\HW01_2.1\obj\Debug\HW01_2.1.pdb
